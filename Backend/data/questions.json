@@ -1,0 +1,77 @@
+[
+  {
+    "id": "q1",
+    "text": "What does HTML stand for?",
+    "options": [
+      "Hyper Text Markup Language",
+      "High Text Machine Language",
+      "Hyper Tool Multi Language",
+      "Home Text Markup Level"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q2",
+    "text": "Which language runs natively in a web browser?",
+    "options": ["Python", "Java", "JavaScript", "C++"],
+    "answer": 2
+  },
+  {
+    "id": "q3",
+    "text": "Which company created React?",
+    "options": ["Google", "Meta (Facebook)", "Microsoft", "Amazon"],
+    "answer": 1
+  },
+  {
+    "id": "q4",
+    "text": "What does CSS stand for?",
+    "options": [
+      "Computer Style Sheets",
+      "Creative Style System",
+      "Cascading Style Sheets",
+      "Colorful Style Sheets"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q5",
+    "text": "Which HTTP method is normally used to fetch data from a server?",
+    "options": ["POST", "GET", "DELETE", "PUT"],
+    "answer": 1
+  },
+  {
+    "id": "q6",
+    "text": "Which of the following is a JavaScript runtime for running code outside the browser?",
+    "options": ["Node.js", "Bootstrap", "Tailwind", "jQuery UI"],
+    "answer": 0
+  },
+  {
+    "id": "q7",
+    "text": "What does API stand for?",
+    "options": [
+      "Applied Program Interface",
+      "Application Programming Interface",
+      "Automated Page Integration",
+      "Advanced Protocol Index"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q8",
+    "text": "Which of these is a NoSQL database?",
+    "options": ["MySQL", "PostgreSQL", "Oracle", "MongoDB"],
+    "answer": 3
+  },
+  {
+    "id": "q9",
+    "text": "Which command installs the packages listed in package.json?",
+    "options": ["npm start", "npm install", "npm run dev", "npm init"],
+    "answer": 1
+  },
+  {
+    "id": "q10",
+    "text": "Which HTML tag is used to create a hyperlink?",
+    "options": ["<link>", "<href>", "<a>", "<url>"],
+    "answer": 2
+  }
+]

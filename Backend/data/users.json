@@ -1,0 +1,82 @@
+[
+  {
+    "id": "muso3tyaex27",
+    "name": "Admin",
+    "email": "admin@exam.com",
+    "salt": "1b66beddfa456d77",
+    "hash": "46ecff316d199dd4c221acdecfd2cebbb5f0cf619341399eb541491041c3ea67",
+    "role": "admin"
+  },
+  {
+    "id": "musokj0i4qfm",
+    "name": "Subhajit Adak",
+    "email": "subhaadak221@gmail.com",
+    "salt": "7ec4379744577d75",
+    "hash": "a5460dfdbaad8e077471ae4e300d81e3a235474741c4fa0b8aa19b02c5d28385",
+    "role": "student"
+  },
+  {
+    "id": "muspnbx9oyo8",
+    "name": "Subhajit",
+    "email": "subhaadak224@gmail.com",
+    "salt": "90a01a0255543624",
+    "hash": "417e57cc9f9c7d04a020343573b24373e968b5c3bf362617742eb83a5c006249",
+    "role": "student"
+  },
+  {
+    "id": "muspqbufmlur",
+    "name": "subhajit Adak",
+    "email": "subhaadak789@.com",
+    "salt": "db839bef4df8ba8e",
+    "hash": "8cc2be3cd1b35a01cfc1cba650d7a1b63575eafddde95e459dfe3eb958d224b5",
+    "role": "student"
+  },
+  {
+    "id": "muspuv7ckmvv",
+    "name": "Subhajit",
+    "email": "newstudent.com",
+    "salt": "be349521fd7ecb15",
+    "hash": "46e3ef943b1922031d379d08c9c1636987be80a919c683c8eec9bc3bcc897d77",
+    "role": "student"
+  },
+  {
+    "id": "muus64jc794f",
+    "name": "Suman",
+    "email": "suman123@.com",
+    "salt": "ca743936dfcf1aa7",
+    "hash": "17396499b4092f59f215003abe633edbcebcc5a1d651b36616cf5dfb7eed096c",
+    "role": "student"
+  },
+  {
+    "id": "muuvmfh7ny7m",
+    "name": "sudipta",
+    "email": "sudipta@.com",
+    "salt": "baeb98a0c4d4c9d8",
+    "hash": "e3a02fcd23cc578927a5f2e66eb2f9379074adf7ce7c4e19da208e36158c7c89",
+    "role": "student"
+  },
+  {
+    "id": "muuwcqr4q5ta",
+    "name": "Arindam",
+    "email": "arindam@.com",
+    "salt": "21629c9773e3dc00",
+    "hash": "cfa1fe2ff37fb3723f7eb89c46c1b444a425c4222205c26b079ca0965d022cdf",
+    "role": "student"
+  },
+  {
+    "id": "muuwqyasu2tr",
+    "name": "subha",
+    "email": "subha@.com",
+    "salt": "0e02a4c5260b07ac",
+    "hash": "5523573b6bcf43c79b738f992fc360de8ccea84f342bb7e276b9271191e7647c",
+    "role": "student"
+  },
+  {
+    "id": "muuyn9kt1ufr",
+    "name": "Subhajit",
+    "email": "subhajir@123",
+    "salt": "a347c0ceab210f1b",
+    "hash": "898021a2d84d3add51dfb03a44dbd161cec8f786e39708c32e464e3c5705f643",
+    "role": "student"
+  }
+]
